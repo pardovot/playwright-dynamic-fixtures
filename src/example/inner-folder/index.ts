@@ -1,0 +1,1 @@
+export * from 'example/inner-folder/somePage';
