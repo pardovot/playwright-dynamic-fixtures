@@ -1,1 +1,1 @@
-export * from 'example/inner-folder/somePage';
+export * from 'example/inner-folder/SomePage';
